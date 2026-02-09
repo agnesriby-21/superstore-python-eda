@@ -1,6 +1,6 @@
 # Superstore Sales & Profit EDA (Python)
 
-Sebuah project **data analysis menggunakan Python** yang berfokus pada proses **Exploratory Data Analysis (EDA)** terhadap dataset *Sample Superstore*.  
+Sebuah project **data analysis menggunakan Python** yang berfokus pada proses **Exploratory Data Analysis (EDA)** terhadap dataset *Superstore*.  
 Project ini bertujuan untuk memahami **pola penjualan, profitabilitas, serta performa bisnis** melalui proses **data cleaning, analisis, dan visualisasi data**.
 
 Dataset yang digunakan berisi data **sales, profit, discount, product, category, segment, dan region** pada periode **2014–2017**.
@@ -71,7 +71,7 @@ Analisis dilakukan menggunakan **Python (Jupyter Notebook)** dengan alur kerja s
 | Data Analysis | Pandas |
 | Data Visualization | Matplotlib |
 | Environment | Jupyter Notebook |
-| Dataset | Sample Superstore |
+| Dataset | Superstore |
 
 ---
 
