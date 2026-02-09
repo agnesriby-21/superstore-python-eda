@@ -84,7 +84,7 @@ Root folder berisi seluruh file utama project Python EDA:
   Jupyter Notebook yang berisi seluruh proses EDA mulai dari data cleaning, analisis, visualisasi, hingga insight bisnis  
 
 - `Superstore.csv`  
-  Dataset **Sample Superstore** yang digunakan sebagai sumber data analisis  
+  Dataset **Superstore** yang digunakan sebagai sumber data analisis  
 
 - `README.md`  
   Dokumentasi project yang menjelaskan tujuan analisis, alur EDA, serta insight dan rekomendasi bisnis  
