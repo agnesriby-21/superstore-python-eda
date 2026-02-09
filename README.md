@@ -107,5 +107,3 @@ Informatics Engineering — Universitas Surabaya
 
 ---
 
-## License
-Project ini dibuat untuk **tujuan pembelajaran dan portofolio**.
